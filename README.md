@@ -5,3 +5,38 @@
 ## アプリ概要
 - REST APIを用いて、ゲーム時間や難易度などのデータ取得する機能のアプリです。
 - データベースの登録・更新はPostmanを用いて、データベースに情報を追加します。
+
+## データベース設計　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+| 属性 | 設定値 |
+|-----|-----|
+| データベース名 | enemy_down |
+| テーブル名 | 以下の通り |
+
+- game_config
+- player_score
+- spawn_enemy
+
+## データベース構成
+### game_config
+|カラム名　　　　 |説明　　 |
+|-----|-----|
+| id | 主キー、自動採番 |
+| game_time | ゲーム時間 |
+| difficulty | 難易度 | 
+
+### player_score
+|カラム名　　　　 |説明　　 |
+|-----|-----|
+| id | 主キー、自動採番 |
+| player_name | プレイヤー名 |
+| score | 倒した敵の得点 |
+| difficulty | 難易度 | 
+| registered_at | 登録日時 | 
+
+### spawn_enemy
+|カラム名　　　　 |説明　　 |
+|-----|-----|
+| id | 主キー、自動採番 |
+| difficulty | 難易度 | 
+| enemy_name | 敵の名前 |
+| score | 倒した敵の得点 |
