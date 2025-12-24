@@ -40,3 +40,13 @@
 | difficulty | 難易度 | 
 | enemy_name | 敵の名前 |
 | score | 敵の得点 |
+
+## アプリから情報を取得
+https://github.com/user-attachments/assets/c34697a3-ef66-497f-8b93-88bcac84fe62
+
+
+
+
+
+
+
