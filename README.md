@@ -1,5 +1,5 @@
 ## はじめに
-- 本リポジトリは、Java学習者の「Seiya」（Xアカウント： [@Seiya_engineer]( https://x.gd/daily_study)）が作成した『EnemyDownApp』に関するものです。
+- 本リポジトリは、Java を用いた個人開発として  Seiya が作成した Minecraft プラグイン「EnemyDownApp」に関するものです。
 - ご利用いただくことによるトラブル等につきましては、一切の責任を負いかねますことを予めご了承ください。
 
 ## アプリ概要
@@ -57,4 +57,4 @@ https://github.com/user-attachments/assets/b14f19b3-86cc-417f-a992-2c93cc75affd
 
 ## おわりに
 * Java学習者のアウトプットして、リポジトリ公開させていただきました。
-* 感想・コメント等あればXアカウントまでご連絡くださると幸いです。
+* 感想・コメント等あればXアカウント[@Seiya_engineer]( https://x.gd/daily_study)までご連絡くださると幸いです。
