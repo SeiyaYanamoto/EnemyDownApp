@@ -10,9 +10,9 @@
 | 使用ツール |![badge](https://img.shields.io/badge/GitHub-181717.svg?style=plastic&logo=github)&nbsp;![badge](https://img.shields.io/badge/MyBatis-DD0700.svg?style=plastic)&nbsp;![badge](https://img.shields.io/badge/Postman-FF6C37.svg?style=plastic&logo=postman&logoColor=white)&nbsp;![badge](https://img.shields.io/badge/intellij%20IDEA-2025.2.3-grey.svg?style=plastic&logo=intellijidea&labelColor=000000)| 
 
 
-## アプリ概要
-- REST APIを用いて、ゲーム時間や難易度などのデータ取得する機能のアプリです。
-- データベースの登録・更新はPostmanを用いて、データベースに情報を追加します。
+## 制作背景
+バックエンドの処理フローを構造的に理解できるようにすることを目的に、Spring Bootを用いてREST APIの設計から実装までを一貫して行いました。
+フレームワークの標準構成を活かし、責務を意識したレイヤ構成でデータの取得および更新処理を実装しています。
 
 ## データベース設計　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 | 属性 | 設定値 |
